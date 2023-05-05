@@ -1,6 +1,7 @@
 movecontrolnet - two handy tampermonkey scripts if you want to change your Stable Diffusion webUI in a hacky way:
 
 A. cnaboveimages.js moves the controlnet-tab **above the image results** 
+
 B. cninbetween.js moves the controlnet-tab **between the settings and the image results**
 
 Works in txt2img and img2img-tab
