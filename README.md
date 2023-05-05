@@ -16,3 +16,9 @@ B. cninbetween.js moves the controlnet-tab **between the settings and the image 
 4. Open Tampermonkey in your browser and add a script
 5. Paste the source into the script window and hit save.
 6. Run your browser / start the webui
+
+# cnaboveimages.js
+![grafik](https://user-images.githubusercontent.com/131474336/236500977-c3341ebd-d55d-4951-943c-b69e2e20e2b5.png)
+
+# cninbetween.js
+![grafik](https://user-images.githubusercontent.com/131474336/236501202-1c208502-2603-4556-9d35-d31f383dc114.png)
