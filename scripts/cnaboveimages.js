@@ -1,6 +1,6 @@
 /* globals jQuery, $, waitForKeyElements */
 // ==UserScript==
-// @name         Controlnet-AboveResults
+// @name         Controlnet-AboveImages
 // @version      1
 // @description  Example script to move an HTML element with jQuery
 // @match        *://127.0.0.1:*
