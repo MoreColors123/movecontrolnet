@@ -4,9 +4,10 @@ A. cnaboveimages.js moves the controlnet-tab **above the image results**
 
 B. cninbetween.js moves the controlnet-tab **between the settings and the image results**
 
-Works in txt2img and img2img-tab
-Tested with Firefox Tampermonkey extension and Stable Diffusion repos automatic1111, vladmandic and anapnoe. 
-Works in Firefox for me. If it doesn't work, its likely due to ad blockers or similar extensions. 
+
+- Works in txt2img and img2img-tab
+- Tested with Firefox Tampermonkey extension and Stable Diffusion repos automatic1111, vladmandic and anapnoe. 
+- If it doesn't work, its likely due to ad blockers or similar extensions. 
 
 Installation:
 1. Install Tampermonkey
