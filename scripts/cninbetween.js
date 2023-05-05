@@ -3,7 +3,7 @@
 // @name         Controlnet-Inbetween
 // @version      1
 // @description  Example script to move an HTML element with jQuery
-// @match        *://127.0.0.1:7860/*
+// @match        *://127.0.0.1:*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @run-at   document-start
